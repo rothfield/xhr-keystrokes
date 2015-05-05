@@ -1,0 +1,2 @@
+{:require  [async-test.app]
+ :init-fns [async-test.app/init]}
